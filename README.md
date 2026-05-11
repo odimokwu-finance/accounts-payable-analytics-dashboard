@@ -77,13 +77,17 @@ Key findings from the analysis include:
 ## Repository Structure
 
 Power BI Portfolio/
+
 │
+
 ├── AP Dashboard/
 
 │   ├── PBIX/
 
 │   ├── Data/
+
 │   ├── Screenshots/
+
 │   └── Exports/
 
 ---
