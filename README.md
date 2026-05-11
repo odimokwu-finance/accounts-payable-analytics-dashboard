@@ -4,16 +4,6 @@ An interactive Power BI dashboard designed to analyse Accounts Payable performan
 
 ## Project Overview
 
-### Dashboard Screenshots
-
-#### Executive Summary Dashboard
-
-![Executive Summary](Screenshots/executive-summary.png)
-
-#### Supplier Analysis Dashboard
-
-![Supplier Analysis](Screenshots/supplier-analysis.png)
-
 This dashboard provides finance teams and management with a clear overview of:
 
 - Total payables exposure
@@ -97,9 +87,15 @@ accounts-payable-analytics-dashboard/
 
 ## Screenshots
 
-- Executive Summary
+### Dashboard Screenshots
 
-- Supplier Analysis
+#### Executive Summary Dashboard
+
+![Executive Summary](Screenshots/executive-summary.png)
+
+#### Supplier Analysis Dashboard
+
+![Supplier Analysis](Screenshots/supplier-analysis.png)
 
 ---
 
