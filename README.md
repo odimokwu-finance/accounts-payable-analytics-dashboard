@@ -76,17 +76,14 @@ Key findings from the analysis include:
 
 ## Repository Structure
 
-Power BI Portfolio/
+```text
+accounts-payable-analytics-dashboard/
 │
-├── AP Dashboard/
-│ ├── PBIX/
-│ ├── Data/
-│ ├── Screenshots/
-│ └── Exports/
-
-
-
----
+├── PBIX/
+├── Data/
+├── Screenshots/
+└── Exports/
+```
 
 ## Screenshots
 
