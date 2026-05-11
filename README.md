@@ -89,10 +89,8 @@ Power BI Portfolio/
 ## Screenshots
 
 ### Executive Summary
-(Add screenshot here)
 
 ### Supplier Analysis
-(Add screenshot here)
 
 ---
 
