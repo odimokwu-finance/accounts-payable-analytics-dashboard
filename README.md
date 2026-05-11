@@ -2,24 +2,41 @@
 
 An interactive Power BI dashboard designed to analyse Accounts Payable performance, overdue exposure, supplier concentration risk, and invoice aging trends.
 
-## Project Overview
+---
 
-This dashboard provides finance teams and management with a clear overview of:
+## Business Problem
 
-- Total payables exposure
-- Open invoices
-- Overdue balances
-- Aging analysis
-- Supplier concentration risk
-- Supplier payment performance
+Accounts payable teams require clear visibility into overdue supplier balances, payment exposure, aging concentration, and supplier risk in order to support effective cash flow management and operational decision-making.
 
-The project demonstrates practical Accounts Payable analytics using Power BI, DAX, and data modelling techniques commonly used in finance and accounting environments.
+Many finance teams struggle with:
+- limited visibility into overdue invoices
+- supplier concentration risk
+- delayed payment monitoring
+- aging analysis reporting
+- manual AP tracking processes
+
+This project was developed to address these challenges using interactive Power BI reporting and financial analytics.
+
+---
+
+## Solution
+
+This Power BI solution was developed to provide finance teams with interactive visibility into supplier liabilities, overdue exposure, and payment performance.
+
+The dashboard enables users to:
+- monitor open payables
+- identify overdue balances
+- analyse aging trends
+- detect supplier concentration risk
+- investigate invoice-level detail
+- support data-driven Accounts Payable decision-making
 
 ---
 
 ## Key Features
 
 ### Executive Summary Dashboard
+
 - Total Payables KPI
 - Open Payables KPI
 - Overdue Amount KPI
@@ -30,6 +47,7 @@ The project demonstrates practical Accounts Payable analytics using Power BI, DA
 - Management insight commentary
 
 ### Supplier Analysis Dashboard
+
 - Top 10 Suppliers by Open Payables
 - Top 10 Suppliers by Overdue Amount
 - Top 10 Suppliers by Average Days Overdue
@@ -47,16 +65,18 @@ Key findings from the analysis include:
 - Significant overdue exposure concentrated in the 90+ day aging bucket
 - Supplier concentration risk among a relatively small number of vendors
 - High overdue percentages indicating potential cash flow pressure and payment control issues
+- Several suppliers demonstrating consistently high average overdue days
 
 ---
 
-## Tools & Technologies Used
+## Tools & Technologies
 
 - Microsoft Power BI
-- Power Query
 - DAX (Data Analysis Expressions)
+- Power Query
+- Excel
 - Data Modelling
-- Interactive Visualisations
+- Interactive Data Visualisation
 
 ---
 
@@ -71,6 +91,21 @@ Key findings from the analysis include:
 - Data Visualisation
 - Business Insight Communication
 - DAX Measure Development
+- Data Modelling
+
+---
+
+## Data Source
+
+This project uses a simulated Accounts Payable invoice dataset containing:
+- supplier invoices
+- invoice amounts
+- due dates
+- payment statuses
+- aging information
+- supplier payment exposure data
+
+The dataset was used solely for dashboard development, analytical modelling, and portfolio demonstration purposes.
 
 ---
 
@@ -85,15 +120,15 @@ accounts-payable-analytics-dashboard/
 └── Exports/
 ```
 
-## Screenshots
+---
 
-### Dashboard Screenshots
+## Dashboard Screenshots
 
-#### Executive Summary Dashboard
+### Executive Summary Dashboard
 
 ![Executive Summary](Screenshots/executive-summary.png)
 
-#### Supplier Analysis Dashboard
+### Supplier Analysis Dashboard
 
 ![Supplier Analysis](Screenshots/supplier-analysis.png)
 
@@ -101,14 +136,16 @@ accounts-payable-analytics-dashboard/
 
 ## Future Improvements
 
-Potential enhancements include:
+Potential future enhancements include:
 
 - Payment trend analysis
 - Cash flow forecasting
 - Supplier segmentation
-- Dynamic risk scoring
+- Dynamic supplier risk scoring
 - Drill-through invoice investigation pages
 - Automated refresh using Power BI Service
+- Payment performance benchmarking
+- Advanced DAX optimisation
 
 ---
 
@@ -118,5 +155,6 @@ Nwabueze Odimokwu
 
 Accounting | Finance | Data Analytics
 
-Skills:
-Power BI | Excel | Sage 50c | SQL | Python | ACCA
+Skills & Technologies:
+
+Power BI • DAX • Excel • Sage 50c • SQL • Python • ACCA
