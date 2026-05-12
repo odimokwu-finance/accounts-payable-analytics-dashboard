@@ -120,8 +120,6 @@ accounts-payable-analytics-dashboard/
 └── Exports/
 ```
 
----
-
 ## Dashboard Screenshots
 
 ### Executive Summary Dashboard
